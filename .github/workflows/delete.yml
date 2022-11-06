@@ -1,6 +1,6 @@
 name: delete workflow
 on: 
-  workflow dispatch:
+  workflow_dispatch:
 jobs:
   job_one:
     name: Delete
